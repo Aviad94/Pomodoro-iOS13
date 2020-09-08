@@ -9,11 +9,10 @@ This application is based on the known technique which is the "Pomodoro Techniqu
 
 ## Feature
 
-- PopupWindow can be displayed at the top or bottom of the screen.
-- Popup can set margins, cornerRadius, blur, etc.
-- When displaying blur, you can't  touch the below contents.
-- By erasing blur, you can touch the below contents.
-- Popup are displayed on another window, so you can leave Popup even when screen transitions.
+- PomodoroApp can help you get things done by the ToDo List table which comes with the app.
+- PomodoroApp will let you to choose the time for each set of work.
+- PomodoroApp will make you more productive and let you follow how much tasks you've done each day!
+- PomodoroApp lets you to set up templates and save you time!
 
 ---
 
