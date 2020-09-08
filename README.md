@@ -1,5 +1,5 @@
 # Pomodoro-iOS13
-<div style="width: 100px; height 60px;"><img src="https://github.com/Aviad94/Pomodoro-iOS13/blob/master/Demo/Pomodoro%20Header.png" width="60%" height="60%" align="right"></div>
+<div align="center" style="width: 100px; height 60px;"><img src="https://github.com/Aviad94/Pomodoro-iOS13/blob/master/Demo/Pomodoro%20Header.png" width="60%" height="60%" ></div>
 
 ---
 
