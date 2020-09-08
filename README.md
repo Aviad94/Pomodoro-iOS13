@@ -1,5 +1,5 @@
 # Pomodoro-iOS13
-<div style="width: 100px; height 60px;"><img src="https://github.com/Aviad94/Pomodoro-iOS13/blob/master/Demo/Pomodoro%20Header.png" width="20%" height="20%" align="center"></div>
+<div style="width: 100px; height 60px;"><img src="https://github.com/Aviad94/Pomodoro-iOS13/blob/master/Demo/Pomodoro%20Header.png" width="30%" height="30%" align="center"></div>
 
 
 A minimal Pomodoro App which forces you to get the job done!
