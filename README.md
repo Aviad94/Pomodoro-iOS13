@@ -19,6 +19,9 @@ This application is based on the known technique which is the "Pomodoro Techniqu
 
 
 ---
+
 ## Requirements
 iOS 13.0+
+*
+
 ---
