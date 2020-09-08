@@ -1,11 +1,6 @@
 # Pomodoro-iOS13
 <div style="width: 100px; height 60px;"><img src="https://github.com/Aviad94/Pomodoro-iOS13/blob/master/Demo/Pomodoro%20Header.png" width="60%" height="60%" align="center"></div>
 
-
-A minimal Pomodoro App which forces you to get the job done!
-This application is based on the known technique which is the "Pomodoro Technique". The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Cirillo used as a university student.
-
-
 ---
 
 ## Feature
@@ -17,16 +12,29 @@ This application is based on the known technique which is the "Pomodoro Techniqu
 
 ---
 
+## Overview
+
+`Pomodoro-iOS` is an app which's based on the known technique which is the "Pomodoro Technique". The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals, traditionally 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for 'tomato', after the tomato-shaped kitchen timer that Cirillo used as a university student.
 
 
+### Keyword
+- Swift
+- Auto Layout
+- CoreData
+- MVC
+- cocoapods
 
 
+## Getting Started
 
+### Prerequisites
 
+- A Mac running macOS Catalina 
+- Xcode 11.3.1
+- An iphone if you would like to run it on your iphone
 
+### Installation
 
-## Requirements
-iOS 13.0+
-
-
----
+1. Clone or download the project to your local machine
+2. Open the project in Xcode
+3. Run the simulator
