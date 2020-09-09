@@ -11,7 +11,7 @@
 ---
 ## Features
 
-<div style="width: 1000px; height 600px;"><img src="https://im.ezgif.com/tmp/ezgif-1-2c1d2513dea0.gif" width="20%" height="20%" align="right"></div>
+<div style="width: 1000px; height 600px;"><img src="https://github.com/Aviad94/Pomodoro-iOS13/blob/master/Demo/Pomodoro_gif.gif" width="20%" height="20%" align="right"></div>
 
 - PomodoroApp can help you get things done by the ToDo List table which comes with the app.
 - PomodoroApp will let you to choose the time for each set of work.
